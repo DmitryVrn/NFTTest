@@ -1,0 +1,16 @@
+{
+	"id": 0,
+    "image":"https://gateway.pinata.cloud/ipfs/QmTd41MXof5ALkvuWuKrb3TjyxT7JkPDG7HK1nfHHfWQTw/neonanimal_0.png",
+    "description":"No description yet",
+    "name" :"Mysterious Neonanimal",
+	"attributes": [
+		{
+			"trait_type": "test_value",
+			"value": 99
+		},
+		{
+			"trait_type": "test_string",
+			"value": "valueString"
+		}
+	]
+}
